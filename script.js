@@ -14,6 +14,20 @@ document.getElementById('checkButton').addEventListener('click', function() {
     }
 
     const khodams = [
+        'Naga Api', 'Burung Phoenix', 'Kucing Sihir', 'Anjing Gaib', 'Kuda Terbang', 'Singa Angkasa', 
+        'Harimau Salju', 'Gajah Awan', 'Ular Emas', 'Rusa Kristal', 'Serigala Bayangan', 'Macan Angin', 
+        'Kura-kura Zaman', 'Ikan Teratai', 'Kupu-kupu Api', 'Katak Guntur', 'Bebek Pelangi', 'Kambing Awan', 
+        'Jerapah Api', 'Kumbang Komet', 'Kelelawar Mega', 'Singa Laut Galaksi', 'Ikan Paus Kosmik', 'Banteng Petir', 
+        'Burung Merak Solar', 'Merpati Galaksi', 'Bebek Nebula', 'Burung Hantu Supernova', 'Ayam Meteor', 
+        'Burung Elang Surya', 'Laba-laba Aurora', 'Kalajengking Plasma', 'Ikan Pari Bintang', 'Burung Hantu Lunar', 
+        'Serigala Nebula', 'Singa Plasma', 'Gajah Lunar', 'Rusa Antimateri', 'Ular Quasar', 'Macan Pulsar', 
+        'Kuda Nebula', 'Rajawali Supernova', 'Kijang Komet', 'Burung Hantu Kosmik', 'Rubah Aurora', 'Kura-kura Galaksi', 
+        'Kakatua Nebula', 'Ikan Koi Galaksi', 'Lebah Supernova', 'Anjing Nebula', 'Kucing Quasar', 'Tikus Pulsar', 
+        'Iguana Aurora', 'Jangkrik Plasma', 'Katak Bintang', 'Gurita Kosmik', 'Singa Antimateri', 'Kuda Laut Quasar', 
+        'Hiu Supernova', 'Kuda Nil Plasma', 'Kerbau Pulsar', 'Jerapah Aurora', 'Kumbang Quasar', 'Kupu-kupu Nebula', 
+        'Kelelawar Galaksi', 'Singa Laut Supernova', 'Ikan Paus Antimateri', 'Banteng Quasar', 'Kambing Nebula', 
+        'Burung Merak Kosmik', 'Merpati Supernova', 'Bebek Plasma', 'Burung Hantu Bintang', 'Ayam Galaksi', 
+        'Burung Elang Nebula', 'Laba-laba Quasar', 'Kalajengking Supernova', 'Ikan Pari Galaksi', 'Burung Hantu Quasar',
         'Macan Putih', 'Naga Biru', 'Garuda Emas', 'Harimau Hitam', 'Kuda Perkasa', 'Elang Merah', 
         'Singa Emas', 'Serigala Putih', 'Rusa Hijau', 'Gajah Besi', 'Buaya Perunggu', 'Kera Sakti', 
         'Burung Hantu', 'Ular Sanca', 'Rajawali Emas', 'Rubah Api', 'Ikan Mas', 'Kijang Perak', 
