@@ -72,6 +72,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
             `Khodam ${khodamTerdeteksi} sedang bersemayam di dalam dirimu, ${name}.`,
             `Kamu bersih dari khodam, ${name}.`,
             `Khodam ${khodamTerdeteksi} berada di dalam dirimu, ${name}, jaga baik-baik!`,
+            `Khodam ${khodamTerdeteksi} berada di dalam dirimu, ${name}, TAPI BOONG !`,
             `Tidak dapat mendeteksi khodam di dalam dirimu, ${name}. Coba lagi.`
         ];
     }
