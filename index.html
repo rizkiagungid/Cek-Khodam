@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cek Khodam</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+</head>
+<body>
+    <div class="container">
+        <h3>SEBERAPA KEREN KHODAM LO ?</h3>
+        <div class="input-container">
+            <input type="text" id="nameInput" placeholder="Masukkan Nama Anda">
+            <input type="date" id="birthDateInput" placeholder="Tanggal Lahir (opsional)">
+            <button id="checkButton">Cek sekarang</button>
+        </div>
+        <div class="loading-stars"></div> 
+
+        <!-- Watermark -->
+        <div class="watermark">
+            <a href="https://www.instagram.com/rizkiagung.id" target="_blank">@rizkiagung.id</a>
+        </div>
+
+        <!-- Kartu foto random -->
+        <div class="photo-card-container">
+            <div class="photo-card">
+                <img src="https://i.pinimg.com/236x/ef/5c/ba/ef5cba0b0bfb703349121e421140485a.jpg" alt="Random Photo 1">
+            </div>
+            <div class="photo-card">
+                <img src="https://w7.pngwing.com/pngs/414/724/png-transparent-one-punch-man-anime-saitama-manga-one-punch-man-food-hand-boy-thumbnail.png" alt="Random Photo 2">
+            </div>
+            <div class="photo-card">
+                <img src="https://i.pinimg.com/736x/1b/52/07/1b52070987b60e23275c4d0897c90bab.jpg" alt="Random Photo 3">
+            </div>
+        </div>
+    </div>
+
+    <div id="popupModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" id="closeButton">&times;</span>
+            <div id="result"></div>
+        </div>
+    </div>    
+
+    <!-- Musik seram -->
+    <audio id="scaryMusic" loop>
+        <source src="./musik.mp3" type="audio/mpeg">
+    </audio>
+
+    <!-- Overlay salju -->
+    <div id="snowflakes-container">
+        <div class="snowflake">❅</div>
+        <div class="snowflake">❆</div>
+        <div class="snowflake">❅</div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        // Memulai musik saat halaman dimuat
+        window.onload = function() {
+            var music = document.getElementById('scaryMusic');
+            music.play();
+        }
+    </script>
+</body>
+</html>
