@@ -33,20 +33,10 @@ document.getElementById('checkButton').addEventListener('click', function() {
         'Burung Elang Merah', 'Laba-laba Biru','Domba liar','Monyet','Setan Ancol','Saitama','Biju','Seblak', 'Kalajengking Merah', 'Ikan Pari Hitam', 'Burung Hantu Emas','kiyubi','Saint saiya',
          // Naruto
     'Naruto Uzumaki', 'Sasuke Uchiha', 'Sakura Haruno', 'Kakashi Hatake', 'Itachi Uchiha', 'Madara Uchiha',
-    'Minato Namikaze', 'Hinata Hyuga', 'Neji Hyuga', 'Gaara', 'Rock Lee', 'Shikamaru Nara',
-    'Ino Yamanaka', 'Choji Akimichi', 'Kiba Inuzuka', 'Shino Aburame', 'Temari', 'Kankuro',
     // Dragon Ball
-    'Goku', 'Vegeta', 'Gohan', 'Frieza', 'Piccolo', 'Majin Buu', 'Cell', 'Bulma', 'Trunks', 'Krillin',
-    'Yamcha', 'Tien Shinhan', 'Chiaotzu', 'Master Roshi', 'Android 18', 'Android 17', 'Beerus', 'Whis',
+    'Goku', 'Vegeta', 'Gohan', 'Frieza', 'Piccolo',
     // One Piece
-    'Luffy', 'Zoro', 'Nami', 'Sanji', 'Usopp', 'Chopper', 'Robin', 'Franky', 'Brook', 'Shanks', 'Ace',
-    'Jimbei', 'Nico Robin', 'Trafalgar Law', 'Donquixote Doflamingo', 'Boa Hancock', 'Buggy', 'Crocodile',
-    // Attack on Titan
-    'Eren Yeager', 'Mikasa Ackerman', 'Armin Arlert', 'Levi Ackerman', 'Erwin Smith', 'Reiner Braun',
-    'Annie Leonhart', 'Hange Zoe', 'Jean Kirstein', 'Connie Springer', 'Sasha Blouse', 'Historia Reiss',
-    // Bleach
-    'Ichigo Kurosaki', 'Rukia Kuchiki', 'Orihime Inoue', 'Uryu Ishida', 'Sado Yasutora', 'Renji Abarai',
-    'Byakuya Kuchiki', 'Toshiro Hitsugaya', 'Kenpachi Zaraki', 'Retsu Unohana', 'Sosuke Aizen', 'Shinji Hirako',
+    'Luffy', 'Zoro', 'Nami', 'Sanji', 'Usopp',
     // One Punch Man
     'Saitama', 'Genos',
     // Hunter x Hunter
@@ -56,8 +46,8 @@ document.getElementById('checkButton').addEventListener('click', function() {
     'Tanjiro Kamado', 'Nezuko Kamado', 'Zenitsu Agatsuma', 'Inosuke Hashibira', 'Kanao Tsuyuri', 'Giyu Tomioka',
     'Shinobu Kocho', 'Kyojuro Rengoku', 'Tengen Uzui', 'Mitsuri Kanroji', 'Muichiro Tokito', 'Sanemi Shinazugawa',
     // Boruto
-    'Boruto Uzumaki', 'Sarada Uchiha', 'Mitsuki', 'Kawaki', 'Shikadai Nara', 'Inojin Yamanaka', 'Chocho Akimichi',
-    'Himawari Uzumaki', 'Konohamaru Sarutobi', 'Moegi Kazamatsuri','Bulu jembut','Upin','IPIN','TOK DALANG', 'Udon Ise'
+    'Boruto Uzumaki', 'Sarada Uchiha',
+    'Himawari Uzumaki','Bulu jembut','Upin','IPIN','TOK DALANG', 'Udon Ise'
     ];
 
     if (birthDate) {
