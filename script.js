@@ -44,9 +44,6 @@ document.getElementById('checkButton').addEventListener('click', function() {
     // Attack on Titan
     'Eren Yeager', 'Mikasa Ackerman', 'Armin Arlert', 'Levi Ackerman', 'Erwin Smith', 'Reiner Braun',
     'Annie Leonhart', 'Hange Zoe', 'Jean Kirstein', 'Connie Springer', 'Sasha Blouse', 'Historia Reiss',
-    // Fairy Tail
-    'Natsu Dragneel', 'Lucy Heartfilia', 'Gray Fullbuster', 'Erza Scarlet', 'Wendy Marvell', 'Happy',
-    'Gajeel Redfox', 'Juvia Lockser', 'Laxus Dreyar', 'Mirajane Strauss', 'Elfman Strauss', 'Lisanna Strauss',
     // Bleach
     'Ichigo Kurosaki', 'Rukia Kuchiki', 'Orihime Inoue', 'Uryu Ishida', 'Sado Yasutora', 'Renji Abarai',
     'Byakuya Kuchiki', 'Toshiro Hitsugaya', 'Kenpachi Zaraki', 'Retsu Unohana', 'Sosuke Aizen', 'Shinji Hirako',
@@ -58,9 +55,6 @@ document.getElementById('checkButton').addEventListener('click', function() {
     // Demon Slayer
     'Tanjiro Kamado', 'Nezuko Kamado', 'Zenitsu Agatsuma', 'Inosuke Hashibira', 'Kanao Tsuyuri', 'Giyu Tomioka',
     'Shinobu Kocho', 'Kyojuro Rengoku', 'Tengen Uzui', 'Mitsuri Kanroji', 'Muichiro Tokito', 'Sanemi Shinazugawa',
-    // Black Clover
-    'Asta', 'Yuno', 'Noelle Silva', 'Yami Sukehiro', 'Julius Novachrono', 'Mereoleona Vermillion',
-    'Fuegoleon Vermillion', 'Luck Voltia', 'Magna Swing', 'Vanessa Enoteca', 'Charmy Pappitson', 'Finral Roulacase',
     // Boruto
     'Boruto Uzumaki', 'Sarada Uchiha', 'Mitsuki', 'Kawaki', 'Shikadai Nara', 'Inojin Yamanaka', 'Chocho Akimichi',
     'Himawari Uzumaki', 'Konohamaru Sarutobi', 'Moegi Kazamatsuri', 'Udon Ise'
