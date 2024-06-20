@@ -14,6 +14,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
     }
 
     const khodams = [
+        'Venti', 'Diluc', 'Amber', 'Barbara', 'Kaeya', 'Lisa', 'Jean', 'Razor', 'Klee', 'Bennett', 'Noelle', 'Fischl', 'Sucrose', 'Mona', 'Xiao', 'Ganyu', 'Albedo', 'Zhongli', 'Childe', 'Diona', 'Xinyan', 'Rosaria', 'Hu Tao', 'Yanfei', 'Eula', 'Kazuha', 'Ayaka', 'Yoimiya', 'Raiden Shogun', 'Sangonomiya Kokomi', 'Thoma', 'Gorou', 'Arataki Itto', 'Yae Miko', 'Shenhe', 'Yun Jin', 'Kamisato Ayato', 'Yelan', 'Kuki Shinobu', 'Shikanoin Heizou',
         'Naga Api', 'Burung Phoenix', 'Kucing Sihir', 'Anjing Gaib', 'Kuda Terbang', 'Singa Angkasa', 
         'Harimau Salju', 'Gajah Awan', 'Ular Emas', 'Rusa Kristal', 'Serigala Bayangan', 'Macan Angin', 
         'Kura-kura Zaman', 'Ikan Teratai', 'Kupu-kupu Api', 'Katak Guntur', 'Bebek Pelangi', 'Kambing Awan', 
