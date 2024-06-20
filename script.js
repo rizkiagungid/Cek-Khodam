@@ -47,7 +47,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
     'Shinobu Kocho', 'Kyojuro Rengoku', 'Tengen Uzui', 'Mitsuri Kanroji', 'Muichiro Tokito', 'Sanemi Shinazugawa',
     // Boruto
     'Boruto Uzumaki', 'Sarada Uchiha',
-    'Himawari Uzumaki','Bulu jembut','Upin','IPIN','TOK DALANG', 'Udon Ise'
+    'Himawari Uzumaki','Bulu jembut','Upin','IPIN','TOK DALANG'
     ];
 
     if (birthDate) {
