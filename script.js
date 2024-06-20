@@ -48,7 +48,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
     'Ichigo Kurosaki', 'Rukia Kuchiki', 'Orihime Inoue', 'Uryu Ishida', 'Sado Yasutora', 'Renji Abarai',
     'Byakuya Kuchiki', 'Toshiro Hitsugaya', 'Kenpachi Zaraki', 'Retsu Unohana', 'Sosuke Aizen', 'Shinji Hirako',
     // One Punch Man
-    'Saitama', 'Genos', 'Bang', 'King', 'Tatsumaki', 'Fubuki', 'Mumen Rider',
+    'Saitama', 'Genos',
     // Hunter x Hunter
     'Gon Freecss', 'Killua Zoldyck', 'Kurapika', 'Leorio Paradinight', 'Hisoka', 'Chrollo Lucilfer',
     'Biscuit Krueger', 'Meruem', 'Neferpitou', 'Komugi', 'Isaac Netero', 'Kite', 'Knuckle Bine',
