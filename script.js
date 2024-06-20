@@ -66,11 +66,6 @@ document.getElementById('checkButton').addEventListener('click', function() {
     // Black Clover
     'Asta', 'Yuno', 'Noelle Silva', 'Yami Sukehiro', 'Julius Novachrono', 'Mereoleona Vermillion',
     'Fuegoleon Vermillion', 'Luck Voltia', 'Magna Swing', 'Vanessa Enoteca', 'Charmy Pappitson', 'Finral Roulacase',
-    // My Hero Academia
-    'Deku', 'Bakugo', 'Todoroki', 'All Might', 'Uraraka', 'Iida', 'Tsuyu Asui', 'Momo Yaoyorozu',
-    'Denki Kaminari', 'Eijiro Kirishima', 'Fumikage Tokoyami', 'Minoru Mineta', 'Katsuki Bakugo', 'Tenya Iida',
-    // Sword Art Online
-    'Kirito', 'Asuna', 'Sinon', 'Leafa', 'Yui', 'Yuuki', 'Eugeo', 'Alice', 'Klein', 'Agil', 'Lisbeth', 'Silica',
     // Boruto
     'Boruto Uzumaki', 'Sarada Uchiha', 'Mitsuki', 'Kawaki', 'Shikadai Nara', 'Inojin Yamanaka', 'Chocho Akimichi',
     'Himawari Uzumaki', 'Konohamaru Sarutobi', 'Moegi Kazamatsuri', 'Udon Ise'
