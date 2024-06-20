@@ -50,11 +50,6 @@ document.getElementById('checkButton').addEventListener('click', function() {
     // Bleach
     'Ichigo Kurosaki', 'Rukia Kuchiki', 'Orihime Inoue', 'Uryu Ishida', 'Sado Yasutora', 'Renji Abarai',
     'Byakuya Kuchiki', 'Toshiro Hitsugaya', 'Kenpachi Zaraki', 'Retsu Unohana', 'Sosuke Aizen', 'Shinji Hirako',
-    // Death Note
-    'Light Yagami', 'L', 'Misa Amane', 'Ryuk', 'Near', 'Mello', 'Soichiro Yagami', 'Touta Matsuda',
-    // Fullmetal Alchemist
-    'Edward Elric', 'Alphonse Elric', 'Roy Mustang', 'Riza Hawkeye', 'Winry Rockbell', 'Maes Hughes',
-    'Alex Louis Armstrong', 'Olivier Mira Armstrong', 'Scar', 'Envy', 'Lust', 'Gluttony', 'Greed',
     // One Punch Man
     'Saitama', 'Genos', 'Bang', 'King', 'Tatsumaki', 'Fubuki', 'Mumen Rider',
     // Hunter x Hunter
