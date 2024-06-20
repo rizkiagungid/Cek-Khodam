@@ -56,7 +56,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
     'Edward Elric', 'Alphonse Elric', 'Roy Mustang', 'Riza Hawkeye', 'Winry Rockbell', 'Maes Hughes',
     'Alex Louis Armstrong', 'Olivier Mira Armstrong', 'Scar', 'Envy', 'Lust', 'Gluttony', 'Greed',
     // One Punch Man
-    'Saitama', 'Genos', 'Speed-o\'-Sound Sonic', 'Bang', 'King', 'Tatsumaki', 'Fubuki', 'Mumen Rider',
+    'Saitama', 'Genos', 'Bang', 'King', 'Tatsumaki', 'Fubuki', 'Mumen Rider',
     // Hunter x Hunter
     'Gon Freecss', 'Killua Zoldyck', 'Kurapika', 'Leorio Paradinight', 'Hisoka', 'Chrollo Lucilfer',
     'Biscuit Krueger', 'Meruem', 'Neferpitou', 'Komugi', 'Isaac Netero', 'Kite', 'Knuckle Bine',
