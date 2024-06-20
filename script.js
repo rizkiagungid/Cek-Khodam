@@ -31,15 +31,13 @@ document.getElementById('checkButton').addEventListener('click', function() {
         'Kelelawar Merah', 'Singa Laut Hitam', 'Ikan Paus Putih', 'Banteng Hitam', 'Kambing Merah', 
         'Burung Merak Emas', 'Merpati Putih', 'Bebek Merah', 'Burung Hantu Hijau', 'Ayam Jantan', 
         'Burung Elang Merah', 'Laba-laba Biru','Domba liar','Monyet','Setan Ancol','Saitama','Biju','Seblak', 'Kalajengking Merah', 'Ikan Pari Hitam', 'Burung Hantu Emas','kiyubi','Saint saiya',
-         // Naruto
     'Naruto Uzumaki', 'Sasuke Uchiha','EEK AYAM','CAPIII IMOET','BABON','LIU KANG','KUNG LAO','HARIMAU JAWA','ULER PIPIT','MIYABI','BEBEK MADURA',
-    // Dragon Ball
     'Goku', 'Vegeta', 'Gohan', 'Frieza', 'Piccolo',
-    // One Piece
-    'Luffy', 'Zoro', 'Nami', 'Sanji', 'Usopp',
-    // One Punch Man
+    'Luffy', 'Zoro', 'Nami', 'Sanji', 'Usopp', 'Shukaku', 'Gaara', 'Matatabi', 'Yugito Nii', 'Isobu', 'Yagura', 
+    'Son Goku', 'Roshi', 'Kokuo', 'Han', 'Saiken', 'Utakata', 
+    'Chomei', 'Fuu', 'Gyuki', 'Killer Bee', 'Kurama', 'Naruto Uzumaki',
+    'Obito Uchiha', 'Madara Uchiha', 'Hagoromo Otsutsuki',
     'Saitama',
-    // Boruto
     'Boruto Uzumaki', 'Sarada Uchiha',
     'Himawari Uzumaki','Bulu jembut','Upin','IPIN','TOK DALANG'
     ];
