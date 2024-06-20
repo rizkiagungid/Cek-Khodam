@@ -44,7 +44,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
         'Jangkrik Biru', 'Katak Emas', 'Gurita Hitam', 'Singa Biru', 'Kuda Laut Putih', 'Hiu Hitam', 
         'Kuda Nil Merah', 'Kerbau Emas', 'Jerapah Perak', 'Kumbang Hitam', 'Kupu-kupu Merah', 
         'Kelelawar Merah', 'Singa Laut Hitam', 'Ikan Paus Putih', 'Banteng Hitam', 'Kambing Merah', 
-        'Burung Merak Emas', 'Merpati Putih', 'Bebek Merah', 'Burung Hantu Hijau', 'Ayam Jantan', 
+        'Burung Merak Emas', 'Merpati Putih', 'Bebek Merah', 'Burung Hantu Hijau', 'Ayam Jantan', 'TUYUL CINA','CINA PENJAGA TOKO','JIN IPRITTT',
         'Burung Elang Merah', 'Laba-laba Biru','Domba liar','Monyet','Setan Ancol','Saitama','Biju','Seblak', 'Kalajengking Merah', 'Ikan Pari Hitam', 'Burung Hantu Emas','kiyubi','Saint saiya',
     'Naruto Uzumaki', 'Sasuke Uchiha','EEK AYAM','CAPIII IMOET','BABON','LIU KANG','KUNG LAO','HARIMAU JAWA','ULER PIPIT','MIYABI','BEBEK MADURA',
     'Goku', 'Vegeta', 'Gohan', 'Frieza', 'Piccolo',
