@@ -38,13 +38,7 @@ document.getElementById('checkButton').addEventListener('click', function() {
     // One Piece
     'Luffy', 'Zoro', 'Nami', 'Sanji', 'Usopp',
     // One Punch Man
-    'Saitama', 'Genos',
-    // Hunter x Hunter
-    'Gon Freecss', 'Killua Zoldyck', 'Kurapika', 'Leorio Paradinight', 'Hisoka', 'Chrollo Lucilfer',
-    'Biscuit Krueger', 'Meruem', 'Neferpitou', 'Komugi', 'Isaac Netero', 'Kite', 'Knuckle Bine',
-    // Demon Slayer
-    'Tanjiro Kamado', 'Nezuko Kamado', 'Zenitsu Agatsuma', 'Inosuke Hashibira', 'Kanao Tsuyuri', 'Giyu Tomioka',
-    'Shinobu Kocho', 'Kyojuro Rengoku', 'Tengen Uzui', 'Mitsuri Kanroji', 'Muichiro Tokito', 'Sanemi Shinazugawa',
+    'Saitama',
     // Boruto
     'Boruto Uzumaki', 'Sarada Uchiha',
     'Himawari Uzumaki','Bulu jembut','Upin','IPIN','TOK DALANG'
